@@ -9,7 +9,7 @@ server:
 logging:
   level: INFO
   loggers:
-    "pro.pengin": DEBUG
+    "uk.co.kylethompson": DEBUG
 
 applicationConfig:
   applicationVersionFilePath:

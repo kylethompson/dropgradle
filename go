@@ -1,1 +1,1 @@
-./gradlew dropgradle-service:run
+./gradlew gocdexample-service:run

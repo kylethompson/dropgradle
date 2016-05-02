@@ -1,5 +1,5 @@
 allprojects {
-    group 'pro.pengin'
+    group 'uk.co.kylethompson'
     version '1.0-SNAPSHOT'
 
     repositories {

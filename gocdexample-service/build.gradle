@@ -33,11 +33,11 @@ dependencies {
     compile "io.dropwizard.modules:dropwizard-java8:$dropwizardJava8ModulesVersion"
 }
 
-mainClassName = 'pro.pengin.dropgradle.DropgradleApplication'
+mainClassName = 'uk.co.kylethompson.gocdexample.GocdexampleApplication'
 
 // Configure the run task to start the Dropwizard service
 run {
-    args 'server', './DropgradleServiceConfig.yml'
+    args 'server', './GocdexampleServiceConfig.yml'
 }
 
 shadowJar {

@@ -1,4 +1,4 @@
-package pro.pengin.dropgradle.config;
+package uk.co.kylethompson.gocdexample.config;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;

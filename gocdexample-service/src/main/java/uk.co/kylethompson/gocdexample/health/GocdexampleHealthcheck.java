@@ -1,10 +1,10 @@
-package pro.pengin.dropgradle.health;
+package uk.co.kylethompson.gocdexample.health;
 
 import com.codahale.metrics.health.HealthCheck;
 
-public class DropgradleHealthcheck extends HealthCheck {
+public class GocdexampleHealthcheck extends HealthCheck {
 
-    public DropgradleHealthcheck() { }
+    public GocdexampleHealthcheck() { }
 
     @Override
     protected Result check() throws Exception {
